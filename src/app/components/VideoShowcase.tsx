@@ -6,7 +6,7 @@ const videos = [
   {
     title: "Someone Like You — Live at the BRIT Awards 2011",
     artist: "Adele",
-    desc: "Màn trình diễn live huyền thoại của Beyoncé — gợi mở không khí đêm 1 tại SoundWave 2026.",
+    desc: "Màn trình diễn live huyền thoại của Adele — gợi mở không khí đêm 1 tại SoundWave 2026.",
     youtubeId: "hLQl3WQQoQ0",
   },
   {
@@ -18,7 +18,7 @@ const videos = [
   {
     title: "Beyoncé - Crazy In Love ft. JAY Z",
     artist: "Beyoncé",
-    desc: "Màn trình diễn live đi vào lịch sử — giọng ca Adele cho đêm 2 tại Mỹ Đình.",
+    desc: "Màn trình diễn live đi vào lịch sử — giọng ca Beyonce cho đêm 2 tại Mỹ Đình.",
     youtubeId: "ViwtNLUqkMY",
   },
   {
